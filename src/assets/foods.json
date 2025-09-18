@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Paneer Tikka Roll",
+    "amount": 120,
+    "shop": "Spice Cart",
+    "foodtype": "snack",
+    "image": "https://media.istockphoto.com/id/1352474720/photo/fresh-paneer-roll-with-fresh-tomatos-salad-cheese-and-onions-isolated-on-bright-blue.jpg?b=1&s=612x612&w=0&k=20&c=g2ve9CfrfD6fOuYd5tiecf2T6j3PgejySJVMBJ323Q4=",
+    "latest": "Yes"
+  },
+  {
+    "id": 2,
+    "name": "Masala Dosa",
+    "amount": 90,
+    "shop": "South Treats",
+    "foodtype": "main",
+    "image": "https://images.pexels.com/photos/12392915/pexels-photo-12392915.jpeg",
+    "latest": "No"
+  },
+  {
+    "id": 3,
+    "name": "Chicken Shawarma",
+    "amount": 150,
+    "shop": "Grill Zone",
+    "foodtype": "snack",
+    "image": "https://images.pexels.com/photos/14774690/pexels-photo-14774690.jpeg",
+    "latest": "Yes"
+  },
+  {
+    "id": 4,
+    "name": "Cold Coffee",
+    "amount": 70,
+    "shop": "Brew Cart",
+    "foodtype": "beverage",
+    "image": "https://images.pexels.com/photos/2615323/pexels-photo-2615323.jpeg",
+    "latest": "No"
+  },
+  {
+    "id": 5,
+    "name": "Veg Momos",
+    "amount": 80,
+    "shop": "Tibetan Treats",
+    "foodtype": "snack",
+    "image": "https://media.istockphoto.com/id/1748107051/photo/veg-steamed-momo-nepalese-traditional-dish-momo-stuffed-with-vegetables-and-then-cooked-and.jpg?b=1&s=612x612&w=0&k=20&c=FSpKvb8wiea-5VjebbNiEUrU1w6EoguWWCiG4nLly94=",
+    "latest": "Yes"
+  },
+  {
+    "id": 6,
+    "name": "Butter Chicken",
+    "amount": 180,
+    "shop": "North Feast",
+    "foodtype": "main",
+    "image": "https://images.pexels.com/photos/7625056/pexels-photo-7625056.jpeg",
+    "latest": "No"
+  },
+  {
+    "id": 7,
+    "name": "Falooda",
+    "amount": 100,
+    "shop": "Sweet Cart",
+    "foodtype": "dessert",
+    "image": "https://images.pexels.com/photos/18646641/pexels-photo-18646641.jpeg",
+    "latest": "Yes"
+  },
+  {
+    "id": 8,
+    "name": "Samosa",
+    "amount": 25,
+    "shop": "Quick Bites",
+    "foodtype": "snack",
+    "image": "https://images.pexels.com/photos/4449068/pexels-photo-4449068.jpeg",
+    "latest": "No"
+  },
+  {
+    "id": 9,
+    "name": "Lassi",
+    "amount": 60,
+    "shop": "Punjab Cart",
+    "foodtype": "beverage",
+    "image": "https://images.pexels.com/photos/4475024/pexels-photo-4475024.jpeg",
+    "latest": "No"
+  },
+  {
+    "id": 10,
+    "name": "Chocolate Brownie",
+    "amount": 90,
+    "shop": "Bake Stop",
+    "foodtype": "dessert",
+    "image": "https://images.pexels.com/photos/5386673/pexels-photo-5386673.jpeg",
+    "latest": "Yes"
+  },
+  {
+    "id": 11,
+    "name": "Idli Vada Combo",
+    "amount": 85,
+    "shop": "South Treats",
+    "foodtype": "main",
+    "image": "https://media.istockphoto.com/id/2223331687/photo/delicious-south-indian-breakfast-food-idli-and-vada.jpg?b=1&s=612x612&w=0&k=20&c=ysrn0WTJNXUoMrJjRBSYqre12qjSTFUksfSsFY0BHYg=",
+    "latest": "No"
+  },
+  {
+    "id": 12,
+    "name": "Grilled Sandwich",
+    "amount": 110,
+    "shop": "Snack Hub",
+    "foodtype": "snack",
+    "image": "https://images.pexels.com/photos/16230535/pexels-photo-16230535.jpeg",
+    "latest": "Yes"
+  },
+  {
+    "id": 13,
+    "name": "Mango Shake",
+    "amount": 75,
+    "shop": "Brew Cart",
+    "foodtype": "beverage",
+    "image": "https://media.istockphoto.com/id/1150000171/photo/mango-smoothie-in-a-bottle-with-slices-of-mango-fruit.jpg?b=1&s=612x612&w=0&k=20&c=z9sMyCf3lXKHm2rk7phM_ZfwtR6mRPV9xqaurDEl3zM=",
+    "latest": "No"
+  },
+  {
+    "id": 14,
+    "name": "Chicken Biryani",
+    "amount": 160,
+    "shop": "Biryani Express",
+    "foodtype": "main",
+    "image": "https://images.pexels.com/photos/33947401/pexels-photo-33947401.jpeg",
+    "latest": "Yes"
+  },
+  {
+    "id": 15,
+    "name": "Pav Bhaji",
+    "amount": 95,
+    "shop": "Mumbai Street",
+    "foodtype": "main",
+    "image": "https://images.pexels.com/photos/5410400/pexels-photo-5410400.jpeg",
+    "latest": "No"
+  },
+  {
+    "id": 16,
+    "name": "Ice Cream Sundae",
+    "amount": 120,
+    "shop": "Sweet Cart",
+    "foodtype": "dessert",
+    "image": "https://images.pexels.com/photos/1362534/pexels-photo-1362534.jpeg",
+    "latest": "Yes"
+  },
+  {
+    "id": 17,
+    "name": "French Fries",
+    "amount": 70,
+    "shop": "Snack Hub",
+    "foodtype": "snack",
+    "image": "https://media.istockphoto.com/id/1218213212/photo/homemade-french-fries-with-ketchup-and-mayonnaise-on-rustic-wooden-table.jpg?b=1&s=612x612&w=0&k=20&c=xqeAoCveSpQIf2ssrwjeLo5SaROeFY4lS-HeUOnAbYM=",
+    "latest": "No"
+  },
+  {
+    "id": 18,
+    "name": "Green Tea",
+    "amount": 50,
+    "shop": "Brew Cart",
+    "foodtype": "beverage",
+    "image": "https://images.pexels.com/photos/1638280/pexels-photo-1638280.jpeg",
+    "latest": "No"
+  },
+  {
+    "id": 19,
+    "name": "Gulab Jamun",
+    "amount": 60,
+    "shop": "Sweet Cart",
+    "foodtype": "dessert",
+    "image": "https://images.pexels.com/photos/7449105/pexels-photo-7449105.jpeg",
+    "latest": "Yes"
+  },
+  {
+    "id": 20,
+    "name": "Veg Fried Rice",
+    "amount": 130,
+    "shop": "Asian Bowl",
+    "foodtype": "main",
+    "image": "https://images.pexels.com/photos/3926124/pexels-photo-3926124.jpeg",
+    "latest": "No"
+  }
+]
